@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a junior student in College of Computer Science, Nankai University. I am currently pursuing my B. Eng. , and will graduate in June, 2024. I am **EAGERLY** looking for summer research opportunities, and further, a graduate position for 2024 Fall as well.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My general research interest lies in computer vision and machine learning. To be specific, I focus on 3D vision, neural rendering or applications of vision algorithms and artificial intelligence, such as medical image analysis and human face reconstruction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am now working with Prof. [Jin Xie](https://csjinxie.github.io/) on point cloud instance segmentation and Prof. [Yong Qin]([(1) 秦勇 | LinkedIn](https://www.linkedin.com/in/kelvin-qin-166b5021)) on music conditioned 3D dance generation. Prior to that, I was fortunate to work with Prof. [Qicheng Li](https://www.linkedin.com/in/%E8%B5%B7%E6%88%90-%E6%9D%8E-6a27781a5) on State of Health (SoH) predictions on Li-ion batteries.
