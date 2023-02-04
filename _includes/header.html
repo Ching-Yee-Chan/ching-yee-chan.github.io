@@ -51,8 +51,18 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
+              
+              <!-- CV -->
+              <li class="nav-item active">
+                <a class="nav-link" href="assets/pdf/CV_Jiankun.pdf">CV
+                  <!-- {%- if page.url contains 'blog' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%} -->
+                </a>
+              </li>
+              
               <!-- Blog -->
+              <!-- {% if site.blog_nav_title %}
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
@@ -60,10 +70,10 @@
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
+              {%- endif %} -->
 
               <!-- Other pages -->
-              {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
+              <!-- {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
@@ -93,7 +103,7 @@
               </li>
               {%- endif -%}
               {%- endif -%}
-              {% endfor -%}
+              {% endfor -%} -->
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
