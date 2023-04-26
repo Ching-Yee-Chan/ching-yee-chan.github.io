@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-01 15:59:00-0400
+date: 2023-04-07 22:39:00-0400
 inline: true
 ---
 
-One paper submitted to IJCNN 2023!
+One paper accepted on IJCNN 2023!
